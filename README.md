@@ -1,8 +1,22 @@
-# stay-connected-homepage
+# Welcome to DavidDaDev GitHub Page
 
-Making an online presence for small businesses
+This project is part of my coding boot camp homework series. The project purpose was to build an online landing page. The style is in red tint for companies with red as their logo color.
 
-Link:
-https://sotoxp.github.io/stay-connected-homepage/
+Feel free to look at my projects. If you want to drop a line visit my personal [website](http://davidsoto.dev/).
 
-Project done by David Soto.
+## Launch
+
+To see the project live tap [here](https://daviddadev.github.io/landing-page-red-theme-style/index.html), and thanks for visiting my GitHub. Enjoy.
+
+- David
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+### Disclaimer
+On older projects, some links might be dead, broken, or empty. Some projects are just to show the look and feel without 100% functionality. 
